@@ -1,3 +1,4 @@
 *.bak
 *.gcode
 *.cmd
+.idea
