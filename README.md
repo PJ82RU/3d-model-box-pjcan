@@ -1,1 +1,1 @@
-# Box PJCAN 4.1 rev.1.1
+# Box PJCAN 4.1 rev.2.0
